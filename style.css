@@ -6,6 +6,15 @@ h1 {
 	font-kerning: none
 }
 
+h2 {
+	margin: 0.0px 0.0px 12.1px 0.0px; 
+	text-align: left; 
+	font: 34.0px 'Times New Roman'; 
+	-webkit-text-stroke: #000000;
+	font-kerning: none
+	font-weight: bold;
+}
+
 p.p1 {margin: 0.0px 0.0px 10.1px 0.0px; text-align: left; font: 26.0px 'Times New Roman'; -webkit-text-stroke: #000000}
 
 p.p3 {margin: 0.0px 0.0px 12.1px 0.0px; text-align: left; font: 34.0px 'Times New Roman'; -webkit-text-stroke: #000000}
