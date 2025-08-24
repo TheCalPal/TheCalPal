@@ -1,0 +1,30 @@
+h1 {
+	margin: 0.0px 0.0px 16.1px 0.0px; 
+	text-align: left; 
+	font: 40.0px 'Times New Roman'; 
+	-webkit-text-stroke: #000000;
+	font-kerning: none
+}
+
+p.p1 {margin: 0.0px 0.0px 10.1px 0.0px; text-align: left; font: 26.0px 'Times New Roman'; -webkit-text-stroke: #000000}
+
+p.p3 {margin: 0.0px 0.0px 12.1px 0.0px; text-align: left; font: 34.0px 'Times New Roman'; -webkit-text-stroke: #000000}
+
+p.p4 {margin: 0.0px 0.0px 10.0px 0.0px; text-align: left; font: 18.0px 'Times New Roman'; -webkit-text-stroke: #000000}
+p.p5 {margin: 0.0px 0.0px 10.0px 0.0px; text-align: left; font: 18.0px 'Times New Roman'; color: #0000e9; -webkit-text-stroke: #000000}
+p.p6 {margin: 0.0px 0.0px 10.0px 0.0px; text-align: left; font: 18.0px 'Times New Roman'; color: #0000e3; -webkit-text-stroke: #000000; min-height: 18.0px}
+p.p7 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: left; font: 18.0px 'Times New Roman'; -webkit-text-stroke: #000000}
+p.p8 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: left; font: 18.0px 'Times New Roman'; -webkit-text-stroke: #000000; min-height: 18.0px}
+p.p9 {margin: 0.0px 0.0px 12.9px 0.0px; text-align: left; font: 34.0px 'Times New Roman'; color: #0000e3; -webkit-text-stroke: #000000}
+p.p10 {
+	margin: 0.0px 0.0px 12.9px 0.0px; text-align: left; font: 18.0px 'Times New Roman'; -webkit-text-stroke: #000000
+}
+    span.s1 {font-kerning: none}
+    span.s2 {text-decoration: underline ; font-kerning: none}
+
+img {
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	padding: 5px;
+	width: 150px;
+}
